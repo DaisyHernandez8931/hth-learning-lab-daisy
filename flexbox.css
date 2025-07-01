@@ -1,0 +1,13 @@
+photo img{
+width: 120px;
+height: 150px;
+object-fit:cover;
+border:2px black;
+}
+
+.info{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 10px; 
+}

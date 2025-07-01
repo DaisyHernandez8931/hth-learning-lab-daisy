@@ -1,0 +1,16 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+}
+
+license-card{
+    display:grid;
+    grid-gap: 35px;
+    border: 2px solid pink;
+    padding: 20px;
+    width: 500px;
+}
+
